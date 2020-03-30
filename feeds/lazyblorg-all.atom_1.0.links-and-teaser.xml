@@ -7,13 +7,25 @@
   <id>http://Karl-Voit.at/</id>
   <link href="http://Karl-Voit.at" />
   <icon>/favicon.ico</icon>
-  <updated>2020-03-30T13:59:55+01:00</updated>
+  <updated>2020-03-30T14:27:38+01:00</updated>
   <author>
     <name>Karl Voit</name>
   </author>
   <subtitle type="text">public voit</subtitle>
   <rights>All content written by Karl Voit</rights>
   <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">Экстарнализация</title>
+    <link href='http://Karl-Voit.at/2020/03/30/externalization' />
+    <published>2020-03-30T13:47:00+01:00</published>
+    <updated>2020-03-30T13:47:00+01:00</updated>
+    <category scheme='http://Karl-Voit.at/tags/экстарнализация' term='экстарнализация' />
+    <summary type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'></div>
+    </summary>
+    <id>http://Karl-Voit.at/2020/03/30/externalization-from-feed-with-teaser</id>
+</entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">Placeholder: How to Use This Blog Efficiently</title>
@@ -30,18 +42,6 @@ This is a placeholder entry in order to be able to test internal links.
 </div>
     </summary>
     <id>http://Karl-Voit.at/how-to-use-public-voit-from-feed-with-teaser</id>
-</entry>
-<!-- ############################################################################################# -->
-<entry>
-    <title type="text">Экстарнализация</title>
-    <link href='http://Karl-Voit.at/2014/03/09/externalization' />
-    <published>2014-03-09T14:57:00+01:00</published>
-    <updated>2014-03-09T14:57:00+01:00</updated>
-    <category scheme='http://Karl-Voit.at/tags/lazyblorg' term='lazyblorg' />
-    <summary type='xhtml'>
-<div xmlns='http://www.w3.org/1999/xhtml'></div>
-    </summary>
-    <id>http://Karl-Voit.at/2014/03/09/externalization-from-feed-with-teaser</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
