@@ -1,0 +1,19 @@
+* DONE Пересочинение                                     :blog:пересочинение:
+  CLOSED: [2020-03-30 Пн 14:49]
+:PROPERTIES:
+:CREATED:  [2020-03-30 Mon 13:47]
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE" [2020-03-30 Mon 13:47]
+:END:
+:PROPERTIES:
+:CREATED:  [2020-03-30 Mon 13:47]
+:ID: re-authoring
+:END:
+
+
+** Тема: Как пересочинить свою историю?
+** Цель: познакомить ребят с пересочинением
+** Запись видео
+#+BEGIN_EXPORT HTML
+<iframe width="560" height="315" src="https://youtu.be/MqvopvvjFVI" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
