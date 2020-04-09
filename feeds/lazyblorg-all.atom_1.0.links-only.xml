@@ -7,7 +7,7 @@
   <id>http://Karl-Voit.at/</id>
   <link href="http://Karl-Voit.at" />
   <icon>/favicon.ico</icon>
-  <updated>2020-04-09T15:18:15+01:00</updated>
+  <updated>2020-04-09T16:29:49+01:00</updated>
   <author>
     <name>Karl Voit</name>
   </author>
@@ -23,6 +23,8 @@
     <category scheme='http://Karl-Voit.at/tags/власть' term='власть' />
     <category scheme='http://Karl-Voit.at/tags/экстарнализация' term='экстарнализация' />
     <category scheme='http://Karl-Voit.at/tags/надзиратель' term='надзиратель' />
+    <category scheme='http://Karl-Voit.at/tags/край' term='край' />
+    <category scheme='http://Karl-Voit.at/tags/нарративные_заметки' term='нарративные_заметки' />
     <id>http://Karl-Voit.at/2020/03/30/power-2020-04-09-from-feed-with-links</id>
 </entry>
 <!-- ############################################################################################# -->

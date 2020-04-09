@@ -7,7 +7,7 @@
   <id>http://Karl-Voit.at/</id>
   <link href="http://Karl-Voit.at" />
   <icon>/favicon.ico</icon>
-  <updated>2020-04-09T15:18:15+01:00</updated>
+  <updated>2020-04-09T16:29:49+01:00</updated>
   <author>
     <name>Karl Voit</name>
   </author>
@@ -23,8 +23,17 @@
     <category scheme='http://Karl-Voit.at/tags/власть' term='власть' />
     <category scheme='http://Karl-Voit.at/tags/экстарнализация' term='экстарнализация' />
     <category scheme='http://Karl-Voit.at/tags/надзиратель' term='надзиратель' />
+    <category scheme='http://Karl-Voit.at/tags/край' term='край' />
+    <category scheme='http://Karl-Voit.at/tags/нарративные_заметки' term='нарративные_заметки' />
     <summary type='xhtml'>
-<div xmlns='http://www.w3.org/1999/xhtml'></div>
+<div xmlns='http://www.w3.org/1999/xhtml'><img src="https://ibb.co/hcg8CMX" alt="Нарративные заметки" />
+
+<p>
+
+Подходит к концу учеба в <a href="https://krai.online/">крае</a>. За почти год учебы исписал 3 дневника и 2 тетради. Там в основном конспекты, записи разговоров из упражений, свой собственный дневник, планирования дня... Решил оцифровать все конспекты, чтобы поделиться, чему я все-таки учился и до сих пор учусь и чем эти знания могут быть полезны. И еще - это способ создать и поддерживать сообщество людей, хоть чуточку близких к нарративной практике.
+
+</p>
+</div>
     </summary>
     <id>http://Karl-Voit.at/2020/03/30/power-2020-04-09-from-feed-with-teaser</id>
 </entry>
