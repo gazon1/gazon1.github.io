@@ -7,7 +7,7 @@
   <id>http://Karl-Voit.at/</id>
   <link href="http://Karl-Voit.at" />
   <icon>/favicon.ico</icon>
-  <updated>2020-04-09T14:22:27+01:00</updated>
+  <updated>2020-04-09T14:42:20+01:00</updated>
   <author>
     <name>Karl Voit</name>
   </author>
@@ -16,35 +16,17 @@
   <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
 <!-- ############################################################################################# -->
 <entry>
-    <title type="text">Пересочинение</title>
-    <link href='http://Karl-Voit.at/2020/03/30/re-authoring' />
+    <title type="text">Разделение власти на современную и традиционную по Фуко</title>
+    <link href='http://Karl-Voit.at/2020/03/30/power-2020-04-09' />
     <published>2020-03-30T13:47:00+01:00</published>
     <updated>2020-03-30T13:47:00+01:00</updated>
-    <category scheme='http://Karl-Voit.at/tags/пересочинение' term='пересочинение' />
-    <summary type='xhtml'>
-<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>
-
- Тема: Как пересочинить свою историю? Цель: познакомить ребят с пересочинением Запись видео
-
-</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kRvEPj-fDnY?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MqvopvvjFVI?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-    </summary>
-    <id>http://Karl-Voit.at/2020/03/30/re-authoring-from-feed-with-teaser</id>
-</entry>
-<!-- ############################################################################################# -->
-<entry>
-    <title type="text">Экстарнализация</title>
-    <link href='http://Karl-Voit.at/2020/03/30/externalization' />
-    <published>2020-03-30T13:47:00+01:00</published>
-    <updated>2020-03-30T13:47:00+01:00</updated>
+    <category scheme='http://Karl-Voit.at/tags/власть' term='власть' />
     <category scheme='http://Karl-Voit.at/tags/экстарнализация' term='экстарнализация' />
+    <category scheme='http://Karl-Voit.at/tags/надзиратель' term='надзиратель' />
     <summary type='xhtml'>
 <div xmlns='http://www.w3.org/1999/xhtml'></div>
     </summary>
-    <id>http://Karl-Voit.at/2020/03/30/externalization-from-feed-with-teaser</id>
+    <id>http://Karl-Voit.at/2020/03/30/power-2020-04-09-from-feed-with-teaser</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>

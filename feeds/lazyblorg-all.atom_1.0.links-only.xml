@@ -7,7 +7,7 @@
   <id>http://Karl-Voit.at/</id>
   <link href="http://Karl-Voit.at" />
   <icon>/favicon.ico</icon>
-  <updated>2020-04-09T14:22:27+01:00</updated>
+  <updated>2020-04-09T14:42:20+01:00</updated>
   <author>
     <name>Karl Voit</name>
   </author>
@@ -16,21 +16,14 @@
   <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
 <!-- ############################################################################################# -->
 <entry>
-    <title type="text">Пересочинение</title>
-    <link href='http://Karl-Voit.at/2020/03/30/re-authoring' />
+    <title type="text">Разделение власти на современную и традиционную по Фуко</title>
+    <link href='http://Karl-Voit.at/2020/03/30/power-2020-04-09' />
     <published>2020-03-30T13:47:00+01:00</published>
     <updated>2020-03-30T13:47:00+01:00</updated>
-    <category scheme='http://Karl-Voit.at/tags/пересочинение' term='пересочинение' />
-    <id>http://Karl-Voit.at/2020/03/30/re-authoring-from-feed-with-links</id>
-</entry>
-<!-- ############################################################################################# -->
-<entry>
-    <title type="text">Экстарнализация</title>
-    <link href='http://Karl-Voit.at/2020/03/30/externalization' />
-    <published>2020-03-30T13:47:00+01:00</published>
-    <updated>2020-03-30T13:47:00+01:00</updated>
+    <category scheme='http://Karl-Voit.at/tags/власть' term='власть' />
     <category scheme='http://Karl-Voit.at/tags/экстарнализация' term='экстарнализация' />
-    <id>http://Karl-Voit.at/2020/03/30/externalization-from-feed-with-links</id>
+    <category scheme='http://Karl-Voit.at/tags/надзиратель' term='надзиратель' />
+    <id>http://Karl-Voit.at/2020/03/30/power-2020-04-09-from-feed-with-links</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
