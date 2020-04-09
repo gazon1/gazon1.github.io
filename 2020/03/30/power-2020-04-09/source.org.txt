@@ -58,7 +58,7 @@
 3) Описание своего опыта в рамках "single story" - то есть, что может быть только так и никак иначе.
 
 #+BEGIN_EXPORT html
-<img src="followurdreamscancelled.blogspot.com/2017/03/is-street-art-banksy-sending-message.html" alt="Follow your dreams" />
+<img src="http://followurdreamscancelled.blogspot.com/2017/03/is-street-art-banksy-sending-message.html" alt="Follow your dreams" />
 #+END_EXPORT
 
 
