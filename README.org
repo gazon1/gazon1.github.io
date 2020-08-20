@@ -1,7 +1,14 @@
 * Data science portfolio by Max Drobin
-** Выпускная квалификационная работа в бакалавриате "Прогнозирование температуры во времени и пространства"
+** Stand-alone projects
+*** Выпускная квалификационная работа в бакалавриате "Прогнозирование температуры во времени и пространства"
  https://github.com/gazon1/diplom-bachelor. Автоматизировал сбор данных с метеорологических станций по API через python3 и библиотеку requests. Обучил нейросеть на keras и ансамбль деревье по методу градиентного бустинга и сравнил качество прогноза для городов вблизи Лондона.
  
+*** Предсказание исхода матча в Dota
+Задача: предсказание победы по данным о первых 5 минутах игры
+
+По первым 5 минутам игры предсказать, какая из команд победит: Radiant или Dire?
+
+https://github.com/gazon1/hse_ml_coursera/blob/master/final-statement.ipynb
 ** NLP
 *** Классификатор по предсказанию категории обьявления по цене, описанию, заголовку
 Итоговое решение - стекинг FastText классификатора и xgboost
@@ -21,6 +28,10 @@ https://boosters.pro/championship/rekko_challenge/overview
 Соревнование по машинному обучению от онлайн-кинотеатра Okko. Обучите рекомендательную систему и предскажите предпочтения пользователей.
 https://github.com/gazon1/Recco-challenge
 
+** Time series
+*** EDA и анализ промо акций минеральной воды в магазине Окей
+Задача: проанализировать выгоду от проведения промо акции
+https://github.com/gazon1/Predicting-influence-of-promo
 ** Kaggle competitions
 *** Predict Future Sales
 This challenge serves as final project for the "How to win a data science competition" Coursera course.
