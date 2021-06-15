@@ -1,0 +1,17 @@
+#+BEGIN_COMMENT
+.. title: Архитектура отношений
+.. slug: 20210424151125-теорема_томаса.org
+.. date: 2021-06-15 21:19:07 UTC+03:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+#+END_COMMENT
+
+
+"Если ситуации определяются людьми как реальные, они реальны по своим
+последствиям"
+
+[[https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81%D0%B0][link]]
