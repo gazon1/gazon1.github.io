@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Nikola Site</title><link>https://gazon1.github.io/</link><description>This is a demo site for Nikola.</description><atom:link href="https://gazon1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>ru</language><copyright>Contents © 2021 &lt;a href="mailto:drobin.me@yandex.ru"&gt;Drobin Max&lt;/a&gt; </copyright><lastBuildDate>Tue, 15 Jun 2021 19:12:35 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Архитектура отношений</title><link>https://gazon1.github.io/posts/20210424135743-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B8.org.html</link><dc:creator>Drobin Max</dc:creator><description>&lt;div id="outline-container-org1e63815" class="outline-2"&gt;
-&lt;h2 id="org1e63815"&gt;Агрессия как энергия в отношениях&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org1e63815"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Nikola Site</title><link>https://gazon1.github.io/</link><description>This is a demo site for Nikola.</description><atom:link href="https://gazon1.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>ru</language><copyright>Contents © 2021 &lt;a href="mailto:drobin.me@yandex.ru"&gt;Drobin Max&lt;/a&gt; </copyright><lastBuildDate>Tue, 15 Jun 2021 19:59:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Архитектура отношений</title><link>https://gazon1.github.io/posts/20210424135743-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B8.org.html</link><dc:creator>Drobin Max</dc:creator><description>&lt;div id="outline-container-orgdfeeba6" class="outline-2"&gt;
+&lt;h2 id="orgdfeeba6"&gt;Агрессия как энергия в отношениях&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgdfeeba6"&gt;
 &lt;ul class="org-ul"&gt;
-&lt;li&gt;&lt;a href="posts/20210424152821-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B_%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C_%D0%B0%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8E_%D0%B2_%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%D1%85.org.html"&gt;Способы перенаправить агрессию в отношениях&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="posts/20210424152600-%D0%B0%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8.org.html"&gt;Агрессия. Книги&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="20210424152821-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B_%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C_%D0%B0%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8E_%D0%B2_%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%D1%85.org.html"&gt;Способы перенаправить агрессию в отношениях&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="20210424152600-%D0%B0%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8.org.html"&gt;Агрессия. Книги&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-orgda73706" class="outline-2"&gt;
-&lt;h2 id="orgda73706"&gt;Нас в отношениях шестеро&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgda73706"&gt;
+&lt;div id="outline-container-org7a7f132" class="outline-2"&gt;
+&lt;h2 id="org7a7f132"&gt;Нас в отношениях шестеро&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org7a7f132"&gt;
 &lt;ul class="org-ul"&gt;
-&lt;li&gt;&lt;a href="posts/20210424145800-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BE%D0%BA_%D0%B2%D0%B7%D1%80%D0%BE%D1%81%D0%BB%D1%8B%D0%B8.org.html"&gt;Родитель, Ребенок, Взрослый&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div id="outline-container-org82fa8ad" class="outline-2"&gt;
-&lt;h2 id="org82fa8ad"&gt;Сценарии в отношениях&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org82fa8ad"&gt;
-&lt;ul class="org-ul"&gt;
-&lt;li&gt;&lt;a href="posts/20210424123944-%D0%B7%D0%B0%D0%B3%D0%BE%D0%BD%D1%8B_%D0%B8_%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81%D0%B5%D0%B1%D0%B5_%D0%B8_%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%83_%D0%BD%D0%B0_%D1%8D%D1%82%D0%BE_%D0%BE%D0%BA_%D0%B1%D1%8B%D1%82%D1%8C_%D1%82%D0%B0%D0%BA%D0%B8%D0%BC.org.html"&gt;Загоны и разрешения себе и партнеру на "это ок быть таким"&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="posts/20210424143832-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B8.org.html"&gt;Сценарий&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="posts/20210424142532-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8_%D0%B8_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B.org.html"&gt;Сценарии. Книги и фильмы&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="20210424145800-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BE%D0%BA_%D0%B2%D0%B7%D1%80%D0%BE%D1%81%D0%BB%D1%8B%D0%B8.org.html"&gt;Родитель, Ребенок, Взрослый&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org69d92c6" class="outline-2"&gt;
-&lt;h2 id="org69d92c6"&gt;Обида - чувство или …? Что это?&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org69d92c6"&gt;
+&lt;div id="outline-container-org9aadc13" class="outline-2"&gt;
+&lt;h2 id="org9aadc13"&gt;Сценарии в отношениях&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org9aadc13"&gt;
 &lt;ul class="org-ul"&gt;
-&lt;li&gt;&lt;a href="posts/20210613190025-%D0%BE%D0%B1%D0%B8%D0%B4%D0%B0.org.html"&gt;Обида&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="posts/20210613190615-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8_%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D0%B0_%D0%BD%D0%B0_%D0%BC%D0%BE%D0%B5_%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.org.html"&gt;Список золотых исключений партнера на мое ожидание&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="20210424123944-%D0%B7%D0%B0%D0%B3%D0%BE%D0%BD%D1%8B_%D0%B8_%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81%D0%B5%D0%B1%D0%B5_%D0%B8_%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%83_%D0%BD%D0%B0_%D1%8D%D1%82%D0%BE_%D0%BE%D0%BA_%D0%B1%D1%8B%D1%82%D1%8C_%D1%82%D0%B0%D0%BA%D0%B8%D0%BC.org.html"&gt;Загоны и разрешения себе и партнеру на "это ок быть таким"&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="20210424143832-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B8.org.html"&gt;Сценарий&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="20210424142532-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8_%D0%B8_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B.org.html"&gt;Сценарии. Книги и фильмы&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id="outline-container-orgcb52700" class="outline-2"&gt;
+&lt;h2 id="orgcb52700"&gt;Обида - чувство или …? Что это?&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgcb52700"&gt;
+&lt;ul class="org-ul"&gt;
+&lt;li&gt;&lt;a href="20210613190025-%D0%BE%D0%B1%D0%B8%D0%B4%D0%B0.org.html"&gt;Обида&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="20210613190615-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8_%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D0%B0_%D0%BD%D0%B0_%D0%BC%D0%BE%D0%B5_%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.org.html"&gt;Список золотых исключений партнера на мое ожидание&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description><guid>https://gazon1.github.io/posts/20210424135743-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B8.org.html</guid><pubDate>Tue, 15 Jun 2021 18:19:07 GMT</pubDate></item><item><title>Архитектура отношений</title><link>https://gazon1.github.io/posts/20210424142532-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8_%D0%B8_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B.org.html</link><dc:creator>Drobin Max</dc:creator><description>&lt;ul class="org-ul"&gt;
@@ -63,9 +63,9 @@
 В нарративной практике такие истины понижаются во власти через &lt;img src="https://gazon1.github.io/20210424162416-%D0%B4%D0%B5%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F.org" alt="деконструкцию"&gt; 
 &lt;/p&gt;
 
-&lt;div id="outline-container-org43a506c" class="outline-2"&gt;
-&lt;h2 id="org43a506c"&gt;Какую жизнь желает мне Родитель?&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org43a506c"&gt;
+&lt;div id="outline-container-org2a7f081" class="outline-2"&gt;
+&lt;h2 id="org2a7f081"&gt;Какую жизнь желает мне Родитель?&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org2a7f081"&gt;
 &lt;p&gt;
 Сценарий предлагает, что говорить &lt;img src="https://gazon1.github.io/20210424145800-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BE%D0%BA_%D0%B2%D0%B7%D1%80%D0%BE%D1%81%D0%BB%D1%8B%D0%B8.org" alt="Родителю"&gt; и что чувстовать ребенку &lt;img src="https://gazon1.github.io/20210424145800-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BE%D0%BA_%D0%B2%D0%B7%D1%80%D0%BE%D1%81%D0%BB%D1%8B%D0%B8.org" alt="Ребенку"&gt;. Из-за
 этого мы иногда не понимаем друг друга и вообще примитивно конструируем реальность, чтобы
@@ -109,9 +109,9 @@
 коммуникации. Это сильно упрощает общение и договорение
 &lt;/p&gt;
 
-&lt;div id="outline-container-orged13050" class="outline-2"&gt;
-&lt;h2 id="orged13050"&gt;Пример&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orged13050"&gt;
+&lt;div id="outline-container-org9a70c56" class="outline-2"&gt;
+&lt;h2 id="org9a70c56"&gt;Пример&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org9a70c56"&gt;
 &lt;p&gt;
 Ситуации мы с Алёной захотели встертиться, но не договорились,
 во сколько именно встречаемся. Из-за этого мы не встретитлись и
@@ -211,17 +211,17 @@
 ли кто-то это у нас?
 &lt;/p&gt;
 
-&lt;div id="outline-container-orgaa6b833" class="outline-2"&gt;
-&lt;h2 id="orgaa6b833"&gt;Что мы говорим, когда обижаемся?&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgaa6b833"&gt;
+&lt;div id="outline-container-org7c57079" class="outline-2"&gt;
+&lt;h2 id="org7c57079"&gt;Что мы говорим, когда обижаемся?&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org7c57079"&gt;
 &lt;p&gt;
 Мы пытаемся обосновать наше ожидание и обвинить партнера что он не
 ценит нас досточно хорошо, что позволил себе так поступить
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><guid>https://gazon1.github.io/posts/20210613190025-%D0%BE%D0%B1%D0%B8%D0%B4%D0%B0.org.html</guid><pubDate>Tue, 15 Jun 2021 18:19:07 GMT</pubDate></item><item><title>Архитектура отношений</title><link>https://gazon1.github.io/posts/20210613190615-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8_%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D0%B0_%D0%BD%D0%B0_%D0%BC%D0%BE%D0%B5_%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.org.html</link><dc:creator>Drobin Max</dc:creator><description>&lt;div id="outline-container-org6f74c1c" class="outline-2"&gt;
-&lt;h2 id="org6f74c1c"&gt;Случай в аэропорте&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org6f74c1c"&gt;
+&lt;/div&gt;</description><guid>https://gazon1.github.io/posts/20210613190025-%D0%BE%D0%B1%D0%B8%D0%B4%D0%B0.org.html</guid><pubDate>Tue, 15 Jun 2021 18:19:07 GMT</pubDate></item><item><title>Архитектура отношений</title><link>https://gazon1.github.io/posts/20210613190615-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8_%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D0%B0_%D0%BD%D0%B0_%D0%BC%D0%BE%D0%B5_%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.org.html</link><dc:creator>Drobin Max</dc:creator><description>&lt;div id="outline-container-orgfe6048d" class="outline-2"&gt;
+&lt;h2 id="orgfe6048d"&gt;Случай в аэропорте&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgfe6048d"&gt;
 &lt;p&gt;
 Пара - парень и девушка. Девушка возвращается с командировки, прилетает
 сегодня на самолете и попросила парня встретить ее. Парень не встречает, &lt;b&gt;что
@@ -266,9 +266,9 @@
 в голове, что может многое случиться&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><guid>https://gazon1.github.io/posts/20210613190615-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8_%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D0%B0_%D0%BD%D0%B0_%D0%BC%D0%BE%D0%B5_%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.org.html</guid><pubDate>Tue, 15 Jun 2021 18:19:07 GMT</pubDate></item><item><title>Загоны</title><link>https://gazon1.github.io/posts/20210424123944-%D0%B7%D0%B0%D0%B3%D0%BE%D0%BD%D1%8B_%D0%B8_%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81%D0%B5%D0%B1%D0%B5_%D0%B8_%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%83_%D0%BD%D0%B0_%D1%8D%D1%82%D0%BE_%D0%BE%D0%BA_%D0%B1%D1%8B%D1%82%D1%8C_%D1%82%D0%B0%D0%BA%D0%B8%D0%BC.org.html</link><dc:creator>Drobin Max</dc:creator><description>&lt;div id="outline-container-org5f4071b" class="outline-2"&gt;
-&lt;h2 id="org5f4071b"&gt;Оля: как мы путаем "должен, хочу, боюсь, могу"&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org5f4071b"&gt;
+&lt;/div&gt;</description><guid>https://gazon1.github.io/posts/20210613190615-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8_%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D0%B0_%D0%BD%D0%B0_%D0%BC%D0%BE%D0%B5_%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.org.html</guid><pubDate>Tue, 15 Jun 2021 18:19:07 GMT</pubDate></item><item><title>Загоны</title><link>https://gazon1.github.io/posts/20210424123944-%D0%B7%D0%B0%D0%B3%D0%BE%D0%BD%D1%8B_%D0%B8_%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81%D0%B5%D0%B1%D0%B5_%D0%B8_%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%83_%D0%BD%D0%B0_%D1%8D%D1%82%D0%BE_%D0%BE%D0%BA_%D0%B1%D1%8B%D1%82%D1%8C_%D1%82%D0%B0%D0%BA%D0%B8%D0%BC.org.html</link><dc:creator>Drobin Max</dc:creator><description>&lt;div id="outline-container-orgfb0416c" class="outline-2"&gt;
+&lt;h2 id="orgfb0416c"&gt;Оля: как мы путаем "должен, хочу, боюсь, могу"&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgfb0416c"&gt;
 &lt;ol class="org-ol"&gt;
 &lt;li&gt;Что я должен?&lt;/li&gt;
 &lt;li&gt;Чего я хочу?&lt;/li&gt;
@@ -288,9 +288,9 @@
 &lt;/ol&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org1bc7b4b" class="outline-3"&gt;
-&lt;h3 id="org1bc7b4b"&gt;Пример&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-org1bc7b4b"&gt;
+&lt;div id="outline-container-org40a4947" class="outline-3"&gt;
+&lt;h3 id="org40a4947"&gt;Пример&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-org40a4947"&gt;
 &lt;ol class="org-ol"&gt;
 &lt;li&gt;&lt;p&gt;
 &lt;code&gt;Я должен&lt;/code&gt; быть в силах забоиться об Алёне. По мнению Оли и ее интерпретации
@@ -347,11 +347,11 @@
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org55c81e8" class="outline-2"&gt;
-&lt;h2 id="org55c81e8"&gt;Загоны в отношениях&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org55c81e8"&gt;
+&lt;div id="outline-container-org693d93a" class="outline-2"&gt;
+&lt;h2 id="org693d93a"&gt;Загоны в отношениях&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org693d93a"&gt;
 &lt;p&gt;
-&lt;a href="~/Dropbox/Org/%D0%A2%D0%B5%D1%81%D1%82%20%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20(%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D1%82%D0%B8%D1%8F%20%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D1%85%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9).docx"&gt;КАТЕГОРИИ РАННИХ РЕШЕНИЙ (тест В.Петровского)&lt;/a&gt; 
+&lt;img src="https://gazon1.github.io/~/Dropbox/Org/%D0%A2%D0%B5%D1%81%D1%82%20%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20(%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D1%82%D0%B8%D1%8F%20%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D1%85%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9).docx" alt="КАТЕГОРИИ РАННИХ РЕШЕНИЙ (тест В.Петровского)"&gt; 
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description><guid>https://gazon1.github.io/posts/20210424123944-%D0%B7%D0%B0%D0%B3%D0%BE%D0%BD%D1%8B_%D0%B8_%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81%D0%B5%D0%B1%D0%B5_%D0%B8_%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%83_%D0%BD%D0%B0_%D1%8D%D1%82%D0%BE_%D0%BE%D0%BA_%D0%B1%D1%8B%D1%82%D1%8C_%D1%82%D0%B0%D0%BA%D0%B8%D0%BC.org.html</guid><pubDate>Tue, 15 Jun 2021 18:19:07 GMT</pubDate></item></channel></rss>
