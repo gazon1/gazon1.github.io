@@ -1,4 +1,0 @@
-Sitemap: https://gazon1.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: gazon1.github.io
