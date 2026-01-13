@@ -75,8 +75,8 @@ importers:
         specifier: ^3.0.2
         version: 3.0.2
       mdast-util-to-hast:
-        specifier: ^13.2.0
-        version: 13.2.0
+        specifier: ^13.2.1
+        version: 13.2.1
       mdast-util-to-string:
         specifier: ^4.0.0
         version: 4.0.0
@@ -231,8 +231,8 @@ importers:
 
 packages:
 
-  '@bufbuild/protobuf@2.9.0':
-    resolution: {integrity: sha512-rnJenoStJ8nvmt9Gzye8nkYd6V22xUAnu4086ER7h1zJ508vStko4pMvDeQ446ilDTFpV5wnoc5YS7XvMwwMqA==}
+  '@bufbuild/protobuf@2.10.1':
+    resolution: {integrity: sha512-ckS3+vyJb5qGpEYv/s1OebUHDi/xSNtfgw1wqKZo7MR9F2z+qXr0q5XagafAG/9O0QPVIUfST0smluYSTpYFkg==}
 
   '@citation-js/core@0.7.18':
     resolution: {integrity: sha512-EjLuZWA5156dIFGdF7OnyPyWFBW43B8Ckje6Sn/W2RFxHDu0oACvW4/6TNgWT80jhEA4bVFm7ahrZe9MJ2B2UQ==}
@@ -1544,6 +1544,9 @@ packages:
   immutable@5.1.3:
     resolution: {integrity: sha512-+chQdDfvscSF1SJqv2gn4SRO2ZyS3xL3r7IW/wWEEzrzLisnOlKiQu5ytC/BVNcS15C39WT2Hg/bjKjDMcu+zg==}
 
+  immutable@5.1.4:
+    resolution: {integrity: sha512-p6u1bG3YSnINT5RQmx/yRZBpenIl30kVxkTLDyHLIMk0gict704Q9n+thfDI7lTRm9vXdDYutVzXhzcThxTnXA==}
+
   inline-style-parser@0.2.4:
     resolution: {integrity: sha512-0aO8FkhNZlj/ZIbNi7Lxxr12obT7cL1moPfE4tg1LkX7LlLfC6DeX4l2ZEud1ukP9jNQyNnfzQVqwbwmAATY4Q==}
 
@@ -1688,6 +1691,7 @@ packages:
 
   mathjax-full@3.2.2:
     resolution: {integrity: sha512-+LfG9Fik+OuI8SLwsiR02IVdjcnRCy5MufYLi0C3TdMT56L/pjB0alMVGgoWJF8pN9Rc7FESycZB9BMNWIid5w==}
+    deprecated: Version 4 replaces this package with the scoped package @mathjax/src
 
   mdast-util-find-and-replace@3.0.2:
     resolution: {integrity: sha512-Tmd1Vg/m3Xz43afeNxDIhWRtFZgM2VLyaf4vSTYwudTyeuTneoL3qtWMA5jeLyz/O1vDJmmV4QuScFCA2tBPwg==}
@@ -1734,8 +1738,8 @@ packages:
   mdast-util-phrasing@4.1.0:
     resolution: {integrity: sha512-TqICwyvJJpBwvGAMZjj4J2n0X8QWp21b9l0o7eXyVJ25YNWYbJDVIyD1bZXE6WtV6RmKJVYmQAKWa0zWOABz2w==}
 
-  mdast-util-to-hast@13.2.0:
-    resolution: {integrity: sha512-QGYKEuUsYT9ykKBCMOEDLsU5JRObWQusAolFMeko/tYPufNkRffBAQjIE+99jbA87xv6FgmjLtwjh9wBWajwAA==}
+  mdast-util-to-hast@13.2.1:
+    resolution: {integrity: sha512-cctsq2wp5vTsLIcaymblUriiTcZd0CwWtCbLvrOzYCDZoWyMNV8sZ7krj09FSnsiJi3WVsHLM4k6Dq/yaPyCXA==}
 
   mdast-util-to-markdown@2.1.2:
     resolution: {integrity: sha512-xj68wMTvGXVOKonmog6LwyJKrYXZPvlwabaryTjLh9LuvovB/KAH+kvi8Gjj+7rJjsFi23nkUxRQv1KqSroMqA==}
@@ -2446,7 +2450,7 @@ packages:
 
 snapshots:
 
-  '@bufbuild/protobuf@2.9.0': {}
+  '@bufbuild/protobuf@2.10.1': {}
 
   '@citation-js/core@0.7.18':
     dependencies:
@@ -3592,7 +3596,7 @@ snapshots:
       hast-util-from-parse5: 8.0.3
       hast-util-to-parse5: 8.0.0
       html-void-elements: 3.0.0
-      mdast-util-to-hast: 13.2.0
+      mdast-util-to-hast: 13.2.1
       parse5: 7.3.0
       unist-util-position: 5.0.0
       unist-util-visit: 5.0.0
@@ -3608,7 +3612,7 @@ snapshots:
       comma-separated-tokens: 2.0.3
       hast-util-whitespace: 3.0.0
       html-void-elements: 3.0.0
-      mdast-util-to-hast: 13.2.0
+      mdast-util-to-hast: 13.2.1
       property-information: 7.1.0
       space-separated-tokens: 2.0.2
       stringify-entities: 4.0.4
@@ -3687,6 +3691,8 @@ snapshots:
   ignore@7.0.5: {}
 
   immutable@5.1.3: {}
+
+  immutable@5.1.4: {}
 
   inline-style-parser@0.2.4: {}
 
@@ -3954,7 +3960,7 @@ snapshots:
       '@types/mdast': 4.0.4
       unist-util-is: 6.0.0
 
-  mdast-util-to-hast@13.2.0:
+  mdast-util-to-hast@13.2.1:
     dependencies:
       '@types/hast': 3.0.4
       '@types/mdast': 4.0.4
@@ -4466,7 +4472,7 @@ snapshots:
     dependencies:
       '@types/hast': 3.0.4
       '@types/mdast': 4.0.4
-      mdast-util-to-hast: 13.2.0
+      mdast-util-to-hast: 13.2.1
       unified: 11.0.5
       vfile: 6.0.3
 
@@ -4605,10 +4611,10 @@ snapshots:
 
   sass-embedded@1.93.0:
     dependencies:
-      '@bufbuild/protobuf': 2.9.0
+      '@bufbuild/protobuf': 2.10.1
       buffer-builder: 0.2.0
       colorjs.io: 0.5.2
-      immutable: 5.1.3
+      immutable: 5.1.4
       rxjs: 7.8.2
       supports-color: 8.1.1
       sync-child-process: 1.0.2
